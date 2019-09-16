@@ -2,7 +2,7 @@ package ca.jrvs
 
 object App {
   def main(args: Array[String]) {
-    println("Hello World!")
+    println("Hello Worldd!")
     println("concat arguments = " + foo(args))
   }
 
